@@ -143,7 +143,7 @@ repositories:
   #   version: main
   vehicle/sciyon_tricycle_launch:
      type: git
-     url: git@github.com:zhangyi-design/sciyon_tricycle_launch.git
+     url: https://github.com/zhangyi-design/sciyon_tricycle_launch.git
      version: main
   # param
   # param/autoware_individual_params:
